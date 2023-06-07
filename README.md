@@ -5,7 +5,7 @@ This is a badge
 Table of Contents
 
 Purpose
-I made this project to practice using non-relational databases and all of the associated technologies, such as Compass and Mongoose.
+This was a practice chance of using non-relational databases and all of the associated technologies, such as Compass and Mongoose.
 
 Function
 This project lets the user add, delete, and get info for both users and their posts using API routes in Insomnia.
